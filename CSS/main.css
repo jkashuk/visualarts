@@ -1,0 +1,71 @@
+body {
+	background color: #E7E5E6;
+}
+/*Logo */
+.logo h1 {
+	background-color: #AEAEAE;
+	height: 100px;
+	width: 300px;
+	font-size: 75px;
+	padding: 25px;
+	margin: 20px;	
+	text-align: center;	
+	text-transform: uppercase;
+
+}
+/*navigation Bar*/
+.navigation {
+	background-color: #A5A3A4;
+	width: 800px;
+	text-align: center;
+	margin: 100px;
+}
+
+.navigation ul {
+
+}
+
+.navigation li { 
+	display: inline-block; 
+	padding: 20px;
+}
+
+.navigation a { 
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+/*Main Body of page*/
+.title {
+	display: inline-block;
+	width: 500px;	
+	padding: 30px;
+}
+
+/*Second Heading part*/
+.second {
+	float: right;
+	background-color: #CECCCD;
+	height: 400px;
+	width: 350px;	
+	padding: 2px;
+	margin: 5px;	
+}
+.second h2 {
+	text-align: center;
+	font-size: 40px;
+}
+
+.second li {
+	display: inline-block;
+}
+.second a { 
+	font-size: 30px;
+	text-decoration: none;
+	 }
+
+.footer {
+	background-color: #CECCCD;
+	height: 40px;
+	padding: 10px;
+}
